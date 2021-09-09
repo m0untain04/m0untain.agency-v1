@@ -4,4 +4,4 @@ Demo: https://m0untain.agency/oldv1
 
 PS: it's also my first index made from scartch. it may be buggy but whatever,
 
-on mobile is not fucking working
+also, on mobile is not fucking working
